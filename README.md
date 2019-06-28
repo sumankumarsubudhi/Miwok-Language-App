@@ -11,7 +11,7 @@ The app uses Android’s Fragments, AudioManager, AudioFocus, MediaPlayer classe
 ## Screenshots
 
 <img src = "Screenshots/miwok1.jpg" width = "200" >
-<img src = "Screenshots/miwok2.jpg" width = "200" >
-<img src = "Screenshots/miwok3.jpg" width = "200" >
-<img src = "Screenshots/miwok4.jpg" width = "200" >
-<img src = "Screenshots/miwok5.jpg" width = "200" >
+<img src = "Screenshots/miwok2.png" width = "200" >
+<img src = "Screenshots/miwok3.png" width = "200" >
+<img src = "Screenshots/miwok4.png" width = "200" >
+<img src = "Screenshots/miwok5.png" width = "200" >
