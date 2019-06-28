@@ -8,3 +8,10 @@ The app is built as an effort towards preserving the endangered language. It pro
 
 The app uses Android’s Fragments, AudioManager, AudioFocus, MediaPlayer classes. It also provides visual feedback (ripple animation) when a button is clicked.
 
+## Screenshots
+
+<img src = "Screenshots/miwok1.jpg" width = "200" >
+<img src = "Screenshots/miwok2.jpg" width = "200" >
+<img src = "Screenshots/miwok3.jpg" width = "200" >
+<img src = "Screenshots/miwok4.jpg" width = "200" >
+<img src = "Screenshots/miwok5.jpg" width = "200" >
