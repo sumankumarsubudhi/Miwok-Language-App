@@ -8,7 +8,7 @@ The app is built as an effort towards preserving the endangered language. It pro
 
 The app uses Android’s Fragments, AudioManager, AudioFocus, MediaPlayer classes. It also provides visual feedback (ripple animation) when a button is clicked.
 
-## PRE-REQUISITES
+## Pre-requisites
 Android SDK v23
 Android Build Tools v23.0.2
 Android Support Repository v23.3.0
